@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1355490102 source:c:\users\convidado\desktop\mpblog\lc.c
+
+1355490102 source:c:\users\convidado\desktop\mpblog\lp.c
+
+1355490404 source:c:\users\convidado\desktop\mpblog\lu.c
+
+1355490102 source:c:\users\convidado\desktop\mpblog\pc.c
+
+1355490102 source:c:\users\convidado\desktop\mpblog\pp.c
+
+1355490102 source:c:\users\convidado\desktop\mpblog\pu.c
+
+1355742812 source:g:\mpblog\lc.c
+
+1355742812 source:g:\mpblog\lp.c
+
+1355742814 source:g:\mpblog\pc.c
+
+1355742814 source:g:\mpblog\pp.c
+
+1355742814 source:g:\mpblog\pu.c
+
+1355742814 source:g:\mpblog\lu.c
+
+1355743856 source:g:\mpblog\iu.c
+	<stdlib.h>
+	<stdio.h>
+	"VALIDACAO.h"
+	"Logica_Usuario.h"
+
+1355743856 g:\mpblog\validacao.h
+
+1355742504 g:\mpblog\logica_usuario.h
+
+1355754588 source:f:\mpblog\lc.c
+	"Logica_Comentario.h"
+
+1355754588 source:f:\mpblog\lp.c
+	"Logica_Postagem.h"
+
+1355745018 source:f:\mpblog\pc.c
+
+1355745018 source:f:\mpblog\pp.c
+
+1355745018 source:f:\mpblog\pu.c
+
+1355745018 source:f:\mpblog\iu.c
+	<stdlib.h>
+	<stdio.h>
+	"VALIDACAO.h"
+	"Logica_Usuario.h"
+
+1355754878 f:\mpblog\validacao.h
+
+1355754104 f:\mpblog\logica_usuario.h
+
+1355754878 f:\mpblog\logica_comentario.h
+
+1355754878 f:\mpblog\logica_postagem.h
+
+1355754704 source:f:\mpblog\lu.c
+	"Logica_Usuario.h"
+	"Logica_Comentario.h"
+	"Logica_Postagem.h"
+	"Persistencia_Postagem.h"
+	"Persistencia_Comentario.h"
+	"Persistencia_Usuario.h"
+
+1355754878 f:\mpblog\persistencia_postagem.h
+
+1355754878 f:\mpblog\persistencia_comentario.h
+
+1355754878 f:\mpblog\persistencia_usuario.h
+

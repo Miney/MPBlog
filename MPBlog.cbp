@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MPBlog" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\MPBlog" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\MPBlog" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="IU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Logica_Comentario.h" />
+		<Unit filename="Logica_Postagem.h" />
+		<Unit filename="Logica_Usuario.h" />
+		<Unit filename="PC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Persistencia_Comentario.h" />
+		<Unit filename="Persistencia_Postagem.h" />
+		<Unit filename="Persistencia_Usuario.h" />
+		<Unit filename="VALIDACAO.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
